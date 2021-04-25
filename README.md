@@ -1,7 +1,12 @@
 - 👋 Hi, I’m @ZouhirBensm
 - 👀 I’m interested in Web Development, Blockchain, Server scripts.
-- 🌱 I’m currently learning jQuery and Git
-- 💞️ I’m looking to freelance
+- 🌱 I know
+- PHP, JavaScript, Java, and Matlab
+- jQuery, BootStrap and NPM
+- JSON and XML
+- Node.JS, Express.JS and some Laravel
+- SQL => mySQL + phpMyAdmin& mySQL => mongoDB + Atlas
+- Working on React.JS
 - 📫 How to reach me https://webdevelopercanada.website/Zouhir/
 
 <!---
