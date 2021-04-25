@@ -3,9 +3,10 @@
 - 🌱 I know
 - PHP, JavaScript, Java, and Matlab
 - jQuery, BootStrap and NPM
-- JSON and XML
+- JSON, HTML, CSS and XML
 - Node.JS, Express.JS and some Laravel
 - SQL => mySQL + phpMyAdmin & noSQL => mongoDB + Atlas
+- GitHub, and Git
 - Working on React.JS
 - 📫 How to reach me https://webdevelopercanada.website/Zouhir/
 
