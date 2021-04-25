@@ -5,7 +5,7 @@
 - jQuery, BootStrap and NPM
 - JSON and XML
 - Node.JS, Express.JS and some Laravel
-- SQL => mySQL + phpMyAdmin& mySQL => mongoDB + Atlas
+- SQL => mySQL + phpMyAdmin & noSQL => mongoDB + Atlas
 - Working on React.JS
 - 📫 How to reach me https://webdevelopercanada.website/Zouhir/
 
