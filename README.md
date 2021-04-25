@@ -14,5 +14,3 @@
 ZouhirBensm/ZouhirBensm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-[angular](angular.png)<img src="angular.png" height="40"> 
