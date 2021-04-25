@@ -15,4 +15,4 @@ ZouhirBensm/ZouhirBensm is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="../../../tech-logos/angular.png" height="40"> 
+<img src="angular.png" height="40"> 
