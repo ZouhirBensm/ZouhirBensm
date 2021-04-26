@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @ZouhirBensm
-- 👀 I’m interested in Web Development, Blockchain, Server scripts.
+- 👋 Hi, I’m Zouhir Bensmaia @ZouhirBensm
+- :blue_heart: I’m interested in Web Development, Blockchain, Server scripts.
+- 📫 How to reach me https://webdevelopercanada.website/Zouhir/
 - 🌱 I know
 
 <img align="left" alt="php" width="30px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"/>
@@ -29,7 +30,7 @@
 <img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 
-- 📫 How to reach me https://webdevelopercanada.website/Zouhir/
+
 
 <!---
 ZouhirBensm/ZouhirBensm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
