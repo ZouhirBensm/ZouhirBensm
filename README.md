@@ -1,20 +1,7 @@
 - 👋 Hi, I’m @ZouhirBensm
 - 👀 I’m interested in Web Development, Blockchain, Server scripts.
 - 🌱 I know
-- PHP, JavaScript, Java, and Matlab
-- jQuery, BootStrap and NPM
-- JSON, HTML, CSS and XML
-- Node.JS, Express.JS and some Laravel
-- SQL => mySQL + phpMyAdmin & noSQL => mongoDB + Atlas
-- GitHub, and Git
-- Working on React.JS
-- 📫 How to reach me https://webdevelopercanada.website/Zouhir/
-
-<!---
-ZouhirBensm/ZouhirBensm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+- 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -35,4 +22,11 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+- 📫 How to reach me https://webdevelopercanada.website/Zouhir/
+
+<!---
+ZouhirBensm/ZouhirBensm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
