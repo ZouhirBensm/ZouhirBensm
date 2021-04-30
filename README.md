@@ -2,7 +2,7 @@
 
 ## Sofware engineer wanting to be involved revolutionary projects!
 
-- :blue_heart: I’m interested in Web Development, Blockchain, Server scripts.
+- :blue_heart: I’m interested in Web Development, Blockchain cryptography, Server scripts.
 - 📫 How to reach me https://webdevelopercanada.website/Zouhir/
 - 🌱 I know
 
