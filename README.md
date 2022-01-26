@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zouhir Bensmaia @ZouhirBensm
 
-## Software engineer wanting to be involved revolutionary projects!
+## Software Developer wanting to be involved revolutionary projects!
 
 - :blue_heart: I’m interested in Web Development, Blockchain cryptography, Server scripts.
 - 📫 How to reach me https://webdevelopercanada.website/Zouhir/
