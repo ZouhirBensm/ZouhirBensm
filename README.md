@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zouhir Bensmaia @ZouhirBensm
+- 👋 Hi, I’m Zouhir Ben @ZouhirBensm
 
 ## Software Developer wanting to be involved revolutionary projects!
 
