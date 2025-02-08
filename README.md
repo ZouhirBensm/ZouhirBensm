@@ -3,7 +3,7 @@
 ## Software Developer wanting to be involved revolutionary projects!
 
 - :blue_heart: I’m interested in Web Development, Blockchain cryptography, Server scripts.
-- 📫 How to reach me https://webdevelopercanada.website/Zouhir/
+- 📫 How to reach me https://earnanswers.com
 - 🌱 I know
 
 <img align="left" alt="php" width="30px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"/> <br/>
